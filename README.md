@@ -7,7 +7,7 @@
 <h3 align="center">Full Stack Developer</h3>
 
 <div align="center">
-      <img src="https://komarev.com/ghpvc/?username=Xavilegned429&label=Profile%20views&color=0e75b6&style=flat" alt="Xavilegend429" />
+      <img src="https://komarev.com/ghpvc/?username=Xavilegned429&label=Profile%20views&color=0e75b6&style=flat" alt="BlueSpiderDev" />
       <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/bluespiderdev?style=social"> 
       <img alt="GitHub followers" src="https://img.shields.io/github/followers/bluespiderdev?style=social">
 </div>
@@ -24,10 +24,10 @@
       <a href="https://www.linkedin.com/in/#/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
       </a>
-      <a href="https://github.com/Xavilegend429/">
+      <a href="https://github.com/bluespiderdev/">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
       </a>
-      <a href="Xavilegend0429@gmail.com">
+      <a href="000ernandes0107@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
       </a>
       <a href="https://www.instagram.com/#/">
