@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=Hi,+Call+me+Xavi;Or+Full+Stack;Or+Crazy+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=Hi,+Call+me+Nicolas;Or+Full+Stack;Or+Crazy+Developer)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://github.com/techcaptain83/techcaptain83/blob/main/Logo.gif" />
@@ -7,7 +7,7 @@
 <h3 align="center">Full Stack Developer</h3>
 
 <div align="center">
-      <img src="https://komarev.com/ghpvc/?username=Xavilegned429&label=Profile%20views&color=0e75b6&style=flat" alt="BlueSpiderDev" />
+      <img src="https://komarev.com/ghpvc/?username=Nicolaslegned429&label=Profile%20views&color=0e75b6&style=flat" alt="BlueSpiderDev" />
       <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/bluespiderdev?style=social"> 
       <img alt="GitHub followers" src="https://img.shields.io/github/followers/bluespiderdev?style=social">
 </div>
@@ -27,7 +27,7 @@
       <a href="https://github.com/bluespiderdev/">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
       </a>
-      <a href="000ernandes0107@gmail.com">
+      <a href="000Chi0107@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
       </a>
       <a href="https://www.instagram.com/#/">
@@ -37,7 +37,7 @@
 
 
   <h1>
-  👋 Hi, I'm Xavi Ernandes.
+  👋 Hi, I'm Nicolas Chi.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -105,13 +105,13 @@
 
 <p align=center>
   <div align=center>
-      <img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Xavilegend429&theme=react&border=61dafb&hide_border=true" alt="" />
-      <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=Xavilegend429&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nicolaslegend429&theme=react&border=61dafb&hide_border=true" alt="" />
+      <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=Nicolaslegend429&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </div>
 </p>
 
 <!---
-Xavilegend429/Xavilegend429 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nicolaslegend429/Nicolaslegend429 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 <div id="header" align="center">
